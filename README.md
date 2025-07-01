@@ -53,3 +53,8 @@ STEP BY STEP PROCESS:
    . how to debug errors like
      IndentationError,FileNotFoundError, and EmptyDataError
    . basics of how real data pipelines are structured in the industry.
+
+
+   OUTPUT:
+   ![Image](https://github.com/user-attachments/assets/50bba331-5469-45ea-8ef8-85c313148e35)
+
